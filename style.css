@@ -1,0 +1,12 @@
+.mainArea {
+    display: flex;
+    flex-direction: column
+}
+
+.canvas {
+    align-self: center;
+}
+
+.buttons {
+    align-self: center;
+}
